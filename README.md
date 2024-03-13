@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">, I'm Sonu Rajput </h1>
 <h3 align="center">A Passionate Web Developer and Coder from India.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SonuRajput1010&label=Profile%20views&color=0e75b6&style=flat" alt="SonuRAjput1010" />&nbsp;<img src="https://img.shields.io/badge/CODING-%3A%3A%20love-red" alt="SonuRAjput1010" />&nbsp;<img src="https://camo.githubusercontent.com/7d880f217d558a5183c9af2332c2517b00a6c4ff0b29297bd6881dd5bf867887/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f726174696e672d2545322539382538352545322539382538352545322539382538352545322539382538352545322539382538362d627269676874677265656e" alt="SonuRajput1010" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SonuRajput1010&label=Profile%20views&color=0e75b6&style=flat" alt="SonuRAjput1010" />&nbsp;<img src="https://img.shields.io/badge/CODING-%3A%3A%20love-red" alt="SonuRAjput1010" />&nbsp; </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Visit Here To Know More About Me](https://SonuRajput1010.github.io/portfolio/)**
 
