@@ -1,17 +1,12 @@
 <div align="center">
 
-# Hi 👋, I'm Sonu Rajput
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,25:1E293B,50:2563EB,75:7C3AED,100:06B6D4&text=Sonu%20Rajput&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=Java%20Developer%20|%20Spring%20Boot%20|%20Microservices%20|%20Cloud&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Microservices+Enthusiast;Cloud+%26+DevOps+Learner;Backend+Engineering+Passionate" />
+# 👋 Hey, I'm Sonu Rajput
 
-</div>
+### 🚀 Java Full Stack Developer | Spring Boot | Microservices | Cloud Enthusiast
 
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=SonuRajput1010&color=blue)
-![](https://img.shields.io/github/followers/SonuRajput1010?style=social)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;Microservices+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
 
 </div>
 
@@ -19,132 +14,156 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sonu-rajput1012/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/SonuRajput1010">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-</p>
+
+<a href="mailto:sonusinghrajput9189@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
 ```java
 public class SonuRajput {
 
     String role = "Java Full Stack Developer";
 
-    String[] interests = {
+    String[] currentFocus = {
         "Spring Boot",
         "Microservices",
-        "Cloud Computing",
-        "Backend Development",
+        "Angular",
+        "Docker",
+        "AWS",
         "System Design"
     };
 
-    String currentFocus = "Building Scalable Applications";
+    String motto = "Learn • Build • Scale 🚀";
 }
 ```
 
 ---
 
-## 🚀 Tech Stack
+# ⚡ Tech Arsenal
 
-### Languages
+### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate"/>
 </p>
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,maven" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,angular,react"/>
 </p>
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
 </p>
 
 ### Cloud & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions"/>
 </p>
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=idea,vscode,postman" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SonuRajput1010&theme=algolia&row=1&column=7" />
-
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,linux"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=SonuRajput1010&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuRajput1010&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SonuRajput1010&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonuRajput1010&theme=tokyo-night"/>
-
-</p>
-
----
-
-## ⚡ Developer Mindset
-
-> First solve the problem, then write the code.
-
----
-
+# 🧠 Currently Learning
 
 <div align="center">
 
-### 🚀 Keep Learning. Keep Building.
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+![System Design](https://img.shields.io/badge/System_Design-0F172A?style=for-the-badge)
+
+![Microservices](https://img.shields.io/badge/Microservices-2563EB?style=for-the-badge)
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌟 Profile Views
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,25:1E293B,50:2563EB,75:7C3AED,100:06B6D4"/>
 
 </div>
