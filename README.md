@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,25:1E293B,50:2563EB,75:7C3AED,100:06B6D4&text=Sonu%20Rajput&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=Java%20Developer%20|%20Spring%20Boot%20|%20Microservices%20|%20Cloud&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,25:1E293B,50:2563EB,75:7C3AED,100:06B6D4&text=Sonu%20Rajput&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=Java%20Developer%20|%Web%Developer%20|%20Cloud&descAlignY=60"/>
 
 # 👋 Hey, I'm Sonu Rajput
 
@@ -134,7 +134,7 @@ public class SonuRajput {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sonurajput1010&theme=tokyonight&no-frame=true&row=1&column=7"/>
+[<img src="https://github-profile-trophy.vercel.app/?username=Sonurajput1010&theme=tokyonight&no-frame=true&row=1&column=7"/>](https://github-profile-trophy.vercel.app/?username=SonuRajput1010&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
 
@@ -144,7 +144,7 @@ public class SonuRajput {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sonurajput1010/Sonurajput1010/output/github-contribution-grid-snake-dark.svg"/>
+[<img src="https://raw.githubusercontent.com/Sonurajput1010/Sonurajput1010/output/github-contribution-grid-snake-dark.svg"/>](https://raw.githubusercontent.com/SonuRajput1010/SonuRajput1010/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
