@@ -142,16 +142,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonuRajput10
 
 ---
 
-## 🎯 Current Focus
-
-- Spring Boot Microservices
-- System Design
-- Docker & AWS
-- API Gateway
-- Keycloak Authentication
-- Distributed Systems
-
----
 
 <div align="center">
 
