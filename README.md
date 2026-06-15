@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Sonu Rajput
 
-### 🚀 Java Full Stack Developer | Spring Boot | Microservices | Cloud Enthusiast
+### 🚀 Java Full Stack Developer | Web Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;Microservices+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
 
@@ -124,7 +124,7 @@ public class SonuRajput {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Sonurajput1010&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -134,7 +134,7 @@ public class SonuRajput {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sonurajput1010&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -144,7 +144,7 @@ public class SonuRajput {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Sonurajput1010/Sonurajput1010/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -154,7 +154,7 @@ public class SonuRajput {
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=Sonurajput1010&style=for-the-badge&color=blue)
 
 </div>
 
