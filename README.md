@@ -46,7 +46,7 @@ public class SonuRajput {
     String[] currentFocus = {
         "Spring Boot",
         "Microservices",
-        "Angular",
+        "React",
         "Docker",
         "AWS",
         "System Design"
