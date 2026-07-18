@@ -69,7 +69,7 @@ public class SonuRajput {
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,angular,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react"/>
 </p>
 
 ### Database
