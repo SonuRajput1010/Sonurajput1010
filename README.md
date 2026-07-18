@@ -139,21 +139,21 @@ public class SonuRajput {
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-[<img src="https://github-profile-trophy.vercel.app/?username=Sonurajput1010&theme=tokyonight&no-frame=true&row=1&column=7"/>](https://github-profile-trophy.vercel.app/?username=SonuRajput1010&theme=tokyonight&no-frame=true&row=1&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=SonuRajput1010&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[<img src="https://raw.githubusercontent.com/Sonurajput1010/Sonurajput1010/output/github-contribution-grid-snake-dark.svg"/>](https://raw.githubusercontent.com/SonuRajput1010/SonuRajput1010/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/SonuRajput1010/SonuRajput1010/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
