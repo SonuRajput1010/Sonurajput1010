@@ -108,15 +108,24 @@ public class SonuRajput {
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sonurajput1010&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img
+ height="180em"
+ src="https://github-readme-stats-fast.vercel.app/api?username=SonuRajput1010&show_icons=true&theme=tokyonight&hide_border=true"
+ alt="Sonu Rajput GitHub Stats"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonurajput1010&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+ height="180em"
+ src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SonuRajput1010&layout=compact&theme=tokyonight&hide_border=true"
+ alt="Sonu Rajput Top Languages"
+/>
 
 </div>
+
 
 ---
 
