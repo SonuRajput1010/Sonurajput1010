@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,25:1E293B,50:2563EB,75:7C3AED,100:06B6D4&text=Sonu%20Rajput&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=Java%20Developer%20|%Web%20Developer%20|%20Cloud&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,25:1E293B,50:2563EB,75:7C3AED,100:06B6D4&text=Sonu%20Rajput&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=Java%20Developer%20|%Mern%20Stack%20Developer%20|%Web%20Developer%20|%20Cloud&descAlignY=60"/>
 
 # 👋 Hey, I'm Sonu Rajput
 
 ### 🚀 Java Full Stack Developer | Mern Stack Developer | Web Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;Mern+Stack+Developer:Microservices+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;Mern+Stack+Developer;Microservices+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
 
 </div>
 
